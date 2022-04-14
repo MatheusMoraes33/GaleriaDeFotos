@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.central{
+
+ height: 500px;
+   width: 900px;
+ border: solid 1px black;
+box-shadow: 10px 15px 18px 2px black;
+   min-height: 50px;
+  margin: 0 auto;
+  
+
+}
+
+
+.img-grd{
+
+
+height: 280px;
+ text-align: center ;
+overflow: hidden;
+}
+
+.img-grd img{
+ height: 250px;
+width: 400px;
+
+}
+
+.mini{
+    
+    height:400px;
+    width: 900px ;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+  
+}
+
+.mini div{
+
+text-align: center;
+cursor: pointer;
+
+}
+
+
+
+.mini div img{
+
+width: 80%;
+
+}
+
+
+ 
+
